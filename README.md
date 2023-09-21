@@ -29,9 +29,10 @@ def factorial(n)
   end
 end
 ```
-- Make note of where th backtick button is located.
+- Make note of where the backtick button is located.
 - It should appear above the tab key, but it may vary based on your keyboard layout.
-
+![Photo of backtick ](assets/what-is-a-tilde2.jpg)
+![Photo of the pipe character ](assets/pipe.jpg)
 <img src="https://github.com/elon43/github-docs-example/assets/33724977/ac1572a5-8e21-4f52-aa83-b93b6907309c" alt="Image" width="300" height="200" />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.

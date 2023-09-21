@@ -29,11 +29,10 @@ def factorial(n)
   end
 end
 ```
-- Make note of where the backtick button is located.
-- It should appear above the tab key, but it may vary based on your keyboard layout.
-![Photo of backtick ](assets/what-is-a-tilde2.jpg)
-![Photo of the pipe character ](assets/pipe.jpg)
-<img src="https://github.com/elon43/github-docs-example/assets/33724977/ac1572a5-8e21-4f52-aa83-b93b6907309c" alt="Image" width="300" height="200" />
+- Make note of where the backtick key is located.
+- It should appear above the tab key
+- but it may vary based on your keyboard layout.
+<img src="assets/what-is-a-tilde2.jpg" alt="Image" width="300" height="200" />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -68,6 +67,12 @@ You can use the following markdown format to create tables:<sup>[2]</sup>
 ```
 
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
+
+- Make note of where the pipe key is located.
+- It should appear above the enter key
+- but it may vary based on your keyboard layout.
+
+![Photo of the pipe character](assets/pipe.png)
 
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
